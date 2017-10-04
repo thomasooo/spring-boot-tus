@@ -1,0 +1,4 @@
+<init-param>
+    <param-name>dispatchOptionsRequest</param-name>
+    <param-value>true</param-value>
+</init-param>
